@@ -2,7 +2,7 @@
     "name": "the-one-that-aligns-columns",
     "displayName": "The One That Aligns Columns",
     "description": "Aligns the columns in values lists in SQL statements. Improves readability and makes it easier to edit the data using the multi-line cursor.",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "publisher": "RubenRavatsaas",
     "icon": "icon.png",
     "repository": {
@@ -67,11 +67,11 @@
     },
     "devDependencies": {
         "@types/mocha": "^2.2.42",
-        "@types/node": "^12.7.4",
+        "@types/node": "^12.7.5",
         "sqlops": "github:anthonydresser/sqlops-extension-sqlops",
-        "tslint": "^5.8.0",
+        "tslint": "^5.20.0",
         "typemoq": "^2.1.0",
-        "typescript": "^3.6.2",
+        "typescript": "^3.6.3",
         "vscode": "^1.1.36"
     }
 }
